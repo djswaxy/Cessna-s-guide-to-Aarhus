@@ -1,9 +1,13 @@
-# etspel
+# Cessna's Guide to Aarhus
 
-I'm only using free CC0 (No copyright) licensed materials, they do not require attribution but i'll try to link
-every one i use in my project anyway :3, glory to artists!
+A simple game i made to learn some blender and how to proccess large glb's and GIS map data :P
+Enjoy a relaxing plane ride over a 5km x 5km square of Aarhus <3
 
-https://elbolilloduro.itch.io/survival-psx
-https://gataki.itch.io/barriers-retro-free-asset-pack
-https://taogyre.itch.io/psxps1-style-campfire
-https://sketchfab.com/3d-models/pentagram-e6124c5df42f4cb29d110dafc71c9d91
+           __/\__
+           `==/\==`
+ ____________/__\____________
+/____________________________\
+  __||__||__/.--.\__||__||__
+ /__|___|___( >< )___|___|__\
+           _/`--`\_
+jgs       (/------\)
